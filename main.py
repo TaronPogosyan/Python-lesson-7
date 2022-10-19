@@ -7,4 +7,8 @@ from file_writing import writing_txt
 
 writing_txt()
 
+from search import writing_txt
+
+writing_txt()
+
 
